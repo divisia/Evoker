@@ -1,0 +1,11 @@
+c:\users\divisia\source\repos\Evoker\Evoker\bin\Debug\Evoker.exe.config
+c:\users\divisia\source\repos\Evoker\Evoker\bin\Debug\Evoker.exe
+c:\users\divisia\source\repos\Evoker\Evoker\bin\Debug\Evoker.pdb
+c:\users\divisia\source\repos\Evoker\Evoker\obj\Debug\Evoker.Form1.resources
+c:\users\divisia\source\repos\Evoker\Evoker\obj\Debug\Evoker.Properties.Resources.resources
+c:\users\divisia\source\repos\Evoker\Evoker\obj\Debug\Evoker.csproj.GenerateResource.cache
+c:\users\divisia\source\repos\Evoker\Evoker\obj\Debug\Evoker.csproj.CoreCompileInputs.cache
+c:\users\divisia\source\repos\Evoker\Evoker\obj\Debug\Evoker.exe
+c:\users\divisia\source\repos\Evoker\Evoker\obj\Debug\Evoker.pdb
+C:\Users\Divisia\source\repos\Evoker\Evoker\obj\Debug\Evoker.ResolutionInputForm.resources
+C:\Users\Divisia\source\repos\Evoker\Evoker\obj\Debug\Evoker.csprojAssemblyReference.cache

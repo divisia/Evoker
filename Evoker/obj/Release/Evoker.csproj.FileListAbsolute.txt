@@ -1,0 +1,9 @@
+C:\Users\Divisia\source\repos\Evoker\Evoker\bin\Release\Evoker.exe.config
+C:\Users\Divisia\source\repos\Evoker\Evoker\bin\Release\Evoker.exe
+C:\Users\Divisia\source\repos\Evoker\Evoker\bin\Release\Evoker.pdb
+C:\Users\Divisia\source\repos\Evoker\Evoker\obj\Release\Evoker.Form1.resources
+C:\Users\Divisia\source\repos\Evoker\Evoker\obj\Release\Evoker.Properties.Resources.resources
+C:\Users\Divisia\source\repos\Evoker\Evoker\obj\Release\Evoker.csproj.GenerateResource.cache
+C:\Users\Divisia\source\repos\Evoker\Evoker\obj\Release\Evoker.csproj.CoreCompileInputs.cache
+C:\Users\Divisia\source\repos\Evoker\Evoker\obj\Release\Evoker.exe
+C:\Users\Divisia\source\repos\Evoker\Evoker\obj\Release\Evoker.pdb
